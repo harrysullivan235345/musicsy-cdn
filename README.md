@@ -8,7 +8,7 @@ It's php you idiot. There's no building
 
 ## Usage
 
-Run it\n
+Run it  
 Go to whatever url its running on
 
 ## Contributing
